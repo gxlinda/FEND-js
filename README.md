@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Final product](#final_product)
+* [Project](#project)
 
 ## Instructions
 
@@ -14,7 +14,7 @@ To get started, open `js/app.js` and start building out the app's functionality
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
 
 
-## Final product
+## Project
 
 Project fullfills the requirements.
 
